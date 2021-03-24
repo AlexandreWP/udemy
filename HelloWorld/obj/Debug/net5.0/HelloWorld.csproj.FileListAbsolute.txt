@@ -1,0 +1,16 @@
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\github\udemy\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\github\udemy\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
